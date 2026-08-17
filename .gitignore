@@ -1,0 +1,23 @@
+# Sistema operativo macOS
+.DS_Store
+.DS_Store?
+
+# Entornos virtuales de Python
+Tools/venvs/
+Tools/conda_envs/
+__pycache__/
+*.py[cod]
+
+# Cuadernos Jupyter (archivos temporales)
+.ipynb_checkpoints
+
+# Datos (¡Nunca subir bases de datos o CSVs pesados a GitHub!)
+Data/
+*.csv
+*.tsv
+*.dat
+*.sqlite
+*.db
+
+# Configuraciones locales de editores (VS Code, etc.)
+.vscode/
